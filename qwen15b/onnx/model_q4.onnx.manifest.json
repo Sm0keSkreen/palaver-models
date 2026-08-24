@@ -1,0 +1,483 @@
+{
+  "file": "model_q4.onnx",
+  "totalSize": 1787566590,
+  "chunkSize": 18874368,
+  "chunkCount": 95,
+  "parts": [
+    {
+      "name": "model_q4.onnx.part0000",
+      "size": 18874368,
+      "sha256": "8c8dd580b0faf296789b361fdea040c5f2111333a5b5eb96974c3ab426219959"
+    },
+    {
+      "name": "model_q4.onnx.part0001",
+      "size": 18874368,
+      "sha256": "1636e06306e89c6481da7dff562e70787fd2a9ddb6bf9a765e96f17933332fae"
+    },
+    {
+      "name": "model_q4.onnx.part0002",
+      "size": 18874368,
+      "sha256": "bc83a3b59643dc622cb60ccefb886fd8f63054ea4d55c4a4e0c214eca6f9b8ef"
+    },
+    {
+      "name": "model_q4.onnx.part0003",
+      "size": 18874368,
+      "sha256": "84ed2c5308112267ff9f20325f4475ce9d0e3bd848f71bc7138bf7712e45cdc6"
+    },
+    {
+      "name": "model_q4.onnx.part0004",
+      "size": 18874368,
+      "sha256": "99c44932ccc92de4d083775f4075854a187b16f870a3d409242833b753a7ec53"
+    },
+    {
+      "name": "model_q4.onnx.part0005",
+      "size": 18874368,
+      "sha256": "4d742015d35befb70d91f963030bd57f8847d99c8ecae7682a8c0e13a1889071"
+    },
+    {
+      "name": "model_q4.onnx.part0006",
+      "size": 18874368,
+      "sha256": "19c37607ffed73a8ac21e9c3bf70f3c5bf88260e76c299273ad8ce2958db0d8d"
+    },
+    {
+      "name": "model_q4.onnx.part0007",
+      "size": 18874368,
+      "sha256": "8c81100727b00ae20c486199377ee5f242cb85758750c273152b3025dd171ae4"
+    },
+    {
+      "name": "model_q4.onnx.part0008",
+      "size": 18874368,
+      "sha256": "a6fbdfe0ce01eabb3211c37e0eee28f4b6c6e09cdd08517a282b313b588a676e"
+    },
+    {
+      "name": "model_q4.onnx.part0009",
+      "size": 18874368,
+      "sha256": "7de2989310b377785066a2b4748861afb189f9520f199564a00077f44074591f"
+    },
+    {
+      "name": "model_q4.onnx.part0010",
+      "size": 18874368,
+      "sha256": "09173c8b0c11a411160ed34bcb12342fe361f3bce455f9b6b2f697b1bbb75a18"
+    },
+    {
+      "name": "model_q4.onnx.part0011",
+      "size": 18874368,
+      "sha256": "efcbd3931c50db6d5aa9be3be475deeb2c111df22af94da5eadbd28e9cc45c21"
+    },
+    {
+      "name": "model_q4.onnx.part0012",
+      "size": 18874368,
+      "sha256": "94c280e5b6f8aac2562cb8f4a692f07e40ebe1824ba255943d0694e86699077f"
+    },
+    {
+      "name": "model_q4.onnx.part0013",
+      "size": 18874368,
+      "sha256": "7deb6da285697b00d3b42ddba6cc29974503ff9e0b07807bb2b5ea0e4abddbad"
+    },
+    {
+      "name": "model_q4.onnx.part0014",
+      "size": 18874368,
+      "sha256": "4481e2134d77bf232ac4e70c5d61158b29b04afa0a1ba84faf5e54fe78559296"
+    },
+    {
+      "name": "model_q4.onnx.part0015",
+      "size": 18874368,
+      "sha256": "2be724e7e535bb2c0d71db4004444010cc94a375d857ecf6b5441b363ca74c0f"
+    },
+    {
+      "name": "model_q4.onnx.part0016",
+      "size": 18874368,
+      "sha256": "293a575587fe77c4faedcb26e6804f35cf527e7804aa70a4070ca79f8ee0911a"
+    },
+    {
+      "name": "model_q4.onnx.part0017",
+      "size": 18874368,
+      "sha256": "4436e9378850b7a9ac1e4b1ab32329bec4754cf2fe304243c031dfb2437b934b"
+    },
+    {
+      "name": "model_q4.onnx.part0018",
+      "size": 18874368,
+      "sha256": "e3aaac6699b935e21256e4604219568fdc47d0705ff0b9b5c136c97baccc5d92"
+    },
+    {
+      "name": "model_q4.onnx.part0019",
+      "size": 18874368,
+      "sha256": "95ab1b7736641b33fc38c7814ec9f6dd038fa9d27688bd0bc98614c06132bc07"
+    },
+    {
+      "name": "model_q4.onnx.part0020",
+      "size": 18874368,
+      "sha256": "f9bb181e5db761c349cddd64db958ef1273e5a0be2e65a3b77743872e2b268c1"
+    },
+    {
+      "name": "model_q4.onnx.part0021",
+      "size": 18874368,
+      "sha256": "975095d729f0a623b5bc4a1cb52beaad4dc08a59dd48486e072a168683cf2923"
+    },
+    {
+      "name": "model_q4.onnx.part0022",
+      "size": 18874368,
+      "sha256": "410d0880dd30c52308b78e7b9906fe65709670d0386b5664dfb9e13a888a2d40"
+    },
+    {
+      "name": "model_q4.onnx.part0023",
+      "size": 18874368,
+      "sha256": "57d8df2a39f26ff29d2b776c0db552a33df372051357e78a98986a52d8a13615"
+    },
+    {
+      "name": "model_q4.onnx.part0024",
+      "size": 18874368,
+      "sha256": "ac89da72f67ba470731e5063cdea8846d6e358cf16bee73c9bdc4181fa48fcf8"
+    },
+    {
+      "name": "model_q4.onnx.part0025",
+      "size": 18874368,
+      "sha256": "86a1ec5043fe20969b34ee86253cad861796a84b7320600e378f4736e263e98c"
+    },
+    {
+      "name": "model_q4.onnx.part0026",
+      "size": 18874368,
+      "sha256": "a9d0b107dda9a1b9a14831df21c1d751f56260cac996c649420f63be03ab82c7"
+    },
+    {
+      "name": "model_q4.onnx.part0027",
+      "size": 18874368,
+      "sha256": "2447508685b4581bd1024d280ce1c0381ce7048420cfb66bcd0474a65e7e4e21"
+    },
+    {
+      "name": "model_q4.onnx.part0028",
+      "size": 18874368,
+      "sha256": "04af14c9a6f1eb4a06dfe2326f9182815155baf758f02b71f9d8289d97c5c93b"
+    },
+    {
+      "name": "model_q4.onnx.part0029",
+      "size": 18874368,
+      "sha256": "cf10add40b1c2cf870de924fcfa20b9121ddfaaa64b3a29432dfd7a0872b6612"
+    },
+    {
+      "name": "model_q4.onnx.part0030",
+      "size": 18874368,
+      "sha256": "1bee6cf75eae0cc5d47ad0456fd8347cf589ca3e0f9b086374af4ebe268ce378"
+    },
+    {
+      "name": "model_q4.onnx.part0031",
+      "size": 18874368,
+      "sha256": "4f874674685d754f2733890670ba7b43b8e209989479e99e835fddbcf13d33b2"
+    },
+    {
+      "name": "model_q4.onnx.part0032",
+      "size": 18874368,
+      "sha256": "dc18b34651ce2ea413a95fc730cb9776b51ea84619ca4e43509110e8baf6b71b"
+    },
+    {
+      "name": "model_q4.onnx.part0033",
+      "size": 18874368,
+      "sha256": "2429ed86478bd9f1aa370a48c6142d4dbf7f1412209aa67c4f35c02a81db5ae7"
+    },
+    {
+      "name": "model_q4.onnx.part0034",
+      "size": 18874368,
+      "sha256": "851d7aa9caa753ac8dde3a75478e70fe7ed7dd14cdd98fe566f00a4317b6a521"
+    },
+    {
+      "name": "model_q4.onnx.part0035",
+      "size": 18874368,
+      "sha256": "2ba59b916bbeb893c998cc912081a0b4859803247ac6e1c4e2aa20d6d8973f4d"
+    },
+    {
+      "name": "model_q4.onnx.part0036",
+      "size": 18874368,
+      "sha256": "fa8eece5126077fd34c9db23f7acc4be179b2312c5edb689675de4a8a987e523"
+    },
+    {
+      "name": "model_q4.onnx.part0037",
+      "size": 18874368,
+      "sha256": "b9c098dc8fcd2f4d70ce26238ff8f60b216e71541a97a6691fecd4db5f3a03bd"
+    },
+    {
+      "name": "model_q4.onnx.part0038",
+      "size": 18874368,
+      "sha256": "335c2f8c4c97db5f12c6b679bea01c9b61a7af0145c8554b72f83a730c287a3d"
+    },
+    {
+      "name": "model_q4.onnx.part0039",
+      "size": 18874368,
+      "sha256": "9972da380a52a19c443feed1bbceda037c09682d1abed6c1a5d23a92d7ff8473"
+    },
+    {
+      "name": "model_q4.onnx.part0040",
+      "size": 18874368,
+      "sha256": "c191d8f8471645a1ca6b51b41482e7d428cbc8386a51eb87b1e59318f8d28d37"
+    },
+    {
+      "name": "model_q4.onnx.part0041",
+      "size": 18874368,
+      "sha256": "9d5871d0cb794f39b4c18ace89df5013ed8acaee011e9ad8f78b744370b324dd"
+    },
+    {
+      "name": "model_q4.onnx.part0042",
+      "size": 18874368,
+      "sha256": "aad6cd3ef8b23c7cefea61a83c3a95e7eee1b9ee2826f0736faf9764713d2c6c"
+    },
+    {
+      "name": "model_q4.onnx.part0043",
+      "size": 18874368,
+      "sha256": "28da4c611469b8675e778fb44af669a0136ba4010646a87645bfd1749690c947"
+    },
+    {
+      "name": "model_q4.onnx.part0044",
+      "size": 18874368,
+      "sha256": "0d45285f1ad898ef011c0980391f79e55d83d3d8b4991004969fa1d658cbe279"
+    },
+    {
+      "name": "model_q4.onnx.part0045",
+      "size": 18874368,
+      "sha256": "0455cbebe6c50d82675e8562fefc9cbc383d73231e349cf3edb68cc89382eaab"
+    },
+    {
+      "name": "model_q4.onnx.part0046",
+      "size": 18874368,
+      "sha256": "84cb057d718fcf49c1fa6f4ad88cd589e6f69d4ba7ff1b1c840c98b5926b51f4"
+    },
+    {
+      "name": "model_q4.onnx.part0047",
+      "size": 18874368,
+      "sha256": "4a6dd38f1aff074898eb5dce5a689b36da1ad108e0c3344b328eb94b03ef51c4"
+    },
+    {
+      "name": "model_q4.onnx.part0048",
+      "size": 18874368,
+      "sha256": "c34af8f8e3fab007cc92aa56572114da54e30820c803cd9ac3a7a30e2d82c307"
+    },
+    {
+      "name": "model_q4.onnx.part0049",
+      "size": 18874368,
+      "sha256": "cb9509236484981019423d40b1e6575596b4eacabc6981bcb6dac436829bcb74"
+    },
+    {
+      "name": "model_q4.onnx.part0050",
+      "size": 18874368,
+      "sha256": "2de38bf343d5557500cddb69cda0a530b1c19339e82442f47af2236ec6d702d5"
+    },
+    {
+      "name": "model_q4.onnx.part0051",
+      "size": 18874368,
+      "sha256": "2ca1dbab2edad462123d5b2866d006bfd6d089b17f2819b13c8053a57ab4ab5c"
+    },
+    {
+      "name": "model_q4.onnx.part0052",
+      "size": 18874368,
+      "sha256": "3b53d50d62cda15345755200a74f3e781ba2cb969c263476ab50a5dcf32ca3e3"
+    },
+    {
+      "name": "model_q4.onnx.part0053",
+      "size": 18874368,
+      "sha256": "8a039bea5844a948ef525fefdb61eb09952e8550ab837ea8c7f3c4d11193baf7"
+    },
+    {
+      "name": "model_q4.onnx.part0054",
+      "size": 18874368,
+      "sha256": "e41253e629378ee94eb2f2ad18ac8e87482377e7db02d9e533ba62073da70555"
+    },
+    {
+      "name": "model_q4.onnx.part0055",
+      "size": 18874368,
+      "sha256": "9567464ee2386a34c92e33bfb7de3a729b839c67c59d0c042e6f4fc140df3746"
+    },
+    {
+      "name": "model_q4.onnx.part0056",
+      "size": 18874368,
+      "sha256": "19c566fa849985ebba7a3d6cce79afa43101924bab40ec9aaf380729b422e0e9"
+    },
+    {
+      "name": "model_q4.onnx.part0057",
+      "size": 18874368,
+      "sha256": "0cb84881901851d44393b1f6b8b524e1aeed0a9c0a983c2d08edc40cf68821aa"
+    },
+    {
+      "name": "model_q4.onnx.part0058",
+      "size": 18874368,
+      "sha256": "5335c66fee3ea34365ad4bf48ab8f18b5b2eb21277dc15dd651f049d32efb242"
+    },
+    {
+      "name": "model_q4.onnx.part0059",
+      "size": 18874368,
+      "sha256": "b888320fd7593dd5c639ff63392061dad855cfe3f76da8651cac7334eb2f03d8"
+    },
+    {
+      "name": "model_q4.onnx.part0060",
+      "size": 18874368,
+      "sha256": "bc7a9a421c1fea54a973bbb4fc3fe4a43ad3f2634ceb6b7619a375c2b44382fd"
+    },
+    {
+      "name": "model_q4.onnx.part0061",
+      "size": 18874368,
+      "sha256": "2020b77508ff316a8b3092ad9d1201fb924e4e243805dd40a3e69b8150a9d85f"
+    },
+    {
+      "name": "model_q4.onnx.part0062",
+      "size": 18874368,
+      "sha256": "b0bf212e462e37ba7c549aeefbf6ba10ec9791f88a57e44f6ed699cbcb66c4cf"
+    },
+    {
+      "name": "model_q4.onnx.part0063",
+      "size": 18874368,
+      "sha256": "86639ede90c2a9105af15cca8649c00c6604e6cb12cbd5acac5708f207d547d6"
+    },
+    {
+      "name": "model_q4.onnx.part0064",
+      "size": 18874368,
+      "sha256": "f5396b9166047c6cb8551624e044663aacad8cc6a73e3432918d74547f305e93"
+    },
+    {
+      "name": "model_q4.onnx.part0065",
+      "size": 18874368,
+      "sha256": "b59dda238543084c36b3ac58044f7b9afffbe01f8b6b062b87d072fe2b209435"
+    },
+    {
+      "name": "model_q4.onnx.part0066",
+      "size": 18874368,
+      "sha256": "913608dfeae85eee227d408ff36c32d220709b003e3e8bffc0815728ea255eb5"
+    },
+    {
+      "name": "model_q4.onnx.part0067",
+      "size": 18874368,
+      "sha256": "17e2fa95773922ea4ad18048f7560c651f26ad40b2fd8140de971cc554ee9016"
+    },
+    {
+      "name": "model_q4.onnx.part0068",
+      "size": 18874368,
+      "sha256": "95ac861b9d1e6cfabebebe1bed299f2397506c5523d1ba8a23b30aab512d6ba2"
+    },
+    {
+      "name": "model_q4.onnx.part0069",
+      "size": 18874368,
+      "sha256": "94e9a8b8ca18d91485485d896d1fdaaba9a37e4735c225c18711aed9d2c8c0a1"
+    },
+    {
+      "name": "model_q4.onnx.part0070",
+      "size": 18874368,
+      "sha256": "0feb0e3026e4c22ab0af96867688f982d744e0116deac4dff4a2b7a082bc7ea9"
+    },
+    {
+      "name": "model_q4.onnx.part0071",
+      "size": 18874368,
+      "sha256": "6c8d561728c312d5159db6423990489e816be91ac29d4f01a6df556529dd43c4"
+    },
+    {
+      "name": "model_q4.onnx.part0072",
+      "size": 18874368,
+      "sha256": "24432af73018fc8a2bbd77d460b4a74a6f2151d2e9797c8a1e7314e3eca6fb50"
+    },
+    {
+      "name": "model_q4.onnx.part0073",
+      "size": 18874368,
+      "sha256": "ad0cf32c66492700bcfcd083af3ad8081871b6bb04cabc123278c9fbbb9624e2"
+    },
+    {
+      "name": "model_q4.onnx.part0074",
+      "size": 18874368,
+      "sha256": "2402d9e6298ce0eef4c9717b44620862ef74d69d1633a679bc84bf893e86d09e"
+    },
+    {
+      "name": "model_q4.onnx.part0075",
+      "size": 18874368,
+      "sha256": "7430ef8692084048dc08c845fe58f167326254f293698d90b7077f137a93e88a"
+    },
+    {
+      "name": "model_q4.onnx.part0076",
+      "size": 18874368,
+      "sha256": "cfc181b10b4d9808990f9af81266f6ccf4fed699f893be8f818adaa5f7dc8a4c"
+    },
+    {
+      "name": "model_q4.onnx.part0077",
+      "size": 18874368,
+      "sha256": "01ed7bf5f76e6ae7de571f48cc003aca07b963cdcd9f708c0d5aa3eeeb91c9a0"
+    },
+    {
+      "name": "model_q4.onnx.part0078",
+      "size": 18874368,
+      "sha256": "d61e3acc08e0e5de866a2bdadffdbeb98a2af35990aecf0fae51e6a721d20805"
+    },
+    {
+      "name": "model_q4.onnx.part0079",
+      "size": 18874368,
+      "sha256": "309b1ea50afdb5bfabad9adf1985cd4d5bf1aab7f9b5060768975966692e89fc"
+    },
+    {
+      "name": "model_q4.onnx.part0080",
+      "size": 18874368,
+      "sha256": "95659accbe567960e5523165931ee06a87caab96e6ea7c4caa7dfabfd93e1c20"
+    },
+    {
+      "name": "model_q4.onnx.part0081",
+      "size": 18874368,
+      "sha256": "2a83645329f26b99d2fa232104497a2790a1c8719cd0acfab508b31dbfbb1ce5"
+    },
+    {
+      "name": "model_q4.onnx.part0082",
+      "size": 18874368,
+      "sha256": "04cf225a49dbf34001c13ef30fc3119eb5e214b157001cc832dce061847d79b7"
+    },
+    {
+      "name": "model_q4.onnx.part0083",
+      "size": 18874368,
+      "sha256": "5b7c2d134c78da3f616528134769d7209f139946809a9c3b3f4378e2b8ecc72b"
+    },
+    {
+      "name": "model_q4.onnx.part0084",
+      "size": 18874368,
+      "sha256": "d12abc988efd3f7fa398d40f47a2f5fe5c721264241400270bb7a6ba1e5bda22"
+    },
+    {
+      "name": "model_q4.onnx.part0085",
+      "size": 18874368,
+      "sha256": "ee60e1de1c3fe6a3f9294f852a893547517786fe35e9aa8764dec2a90f126399"
+    },
+    {
+      "name": "model_q4.onnx.part0086",
+      "size": 18874368,
+      "sha256": "f36b50f4afa071a717178fa95d690849b23e2ceecfd2913f7e006a1664ccc6d7"
+    },
+    {
+      "name": "model_q4.onnx.part0087",
+      "size": 18874368,
+      "sha256": "e228dc43161e57fa7eec98d812eb6070064759fc283499ec677f58010c105e44"
+    },
+    {
+      "name": "model_q4.onnx.part0088",
+      "size": 18874368,
+      "sha256": "aa9eb594ac17972e969cb4a16633a6be4ff18a748469b94e5141c488235d33fd"
+    },
+    {
+      "name": "model_q4.onnx.part0089",
+      "size": 18874368,
+      "sha256": "6d5f7756400cfa3be0648946ee133bf1c342772e072499f76371b18073b02f35"
+    },
+    {
+      "name": "model_q4.onnx.part0090",
+      "size": 18874368,
+      "sha256": "77767eadd4ad0e862292c1c4fec8de2624f4d754d84c4191aad0fc548f38c8f7"
+    },
+    {
+      "name": "model_q4.onnx.part0091",
+      "size": 18874368,
+      "sha256": "e3d333b077145d41daf42428cb60d4ac729bc294bef85bc67a462e7221622197"
+    },
+    {
+      "name": "model_q4.onnx.part0092",
+      "size": 18874368,
+      "sha256": "aa1497c65d761e6fbf40560c15499da787191b2a383bdff99c006bf78a9ff429"
+    },
+    {
+      "name": "model_q4.onnx.part0093",
+      "size": 18874368,
+      "sha256": "109d0e741987862a338ce068e57974febd9416498732a7f1398d64004fb55650"
+    },
+    {
+      "name": "model_q4.onnx.part0094",
+      "size": 13375998,
+      "sha256": "dd10af648b958941a5518d9319fd66d30a8977f234d24f411674e20a9b818d78"
+    }
+  ]
+}
