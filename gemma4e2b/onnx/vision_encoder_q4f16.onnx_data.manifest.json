@@ -1,0 +1,38 @@
+{
+  "file": "vision_encoder_q4f16.onnx_data",
+  "totalSize": 99189440,
+  "chunkSize": 18874368,
+  "chunkCount": 6,
+  "parts": [
+    {
+      "name": "vision_encoder_q4f16.onnx_data.part0000",
+      "size": 18874368,
+      "sha256": "1c089ba9a7e6ea793f7e3aa7cce49fc9abd1acb23921c9985f40e0644cb085bd"
+    },
+    {
+      "name": "vision_encoder_q4f16.onnx_data.part0001",
+      "size": 18874368,
+      "sha256": "b38c1252ae3590fad6e3f18676b4e1405dc6e542ae634fac07fe02cb7db68bd2"
+    },
+    {
+      "name": "vision_encoder_q4f16.onnx_data.part0002",
+      "size": 18874368,
+      "sha256": "d4e85bb1c1363995a06d7eac50d4e393b5d00562da55f657d8c70db3e8755027"
+    },
+    {
+      "name": "vision_encoder_q4f16.onnx_data.part0003",
+      "size": 18874368,
+      "sha256": "37c3ecf0249acc3e6367944aba8f81d64fdd36b3c6d7f2481b52911692fee425"
+    },
+    {
+      "name": "vision_encoder_q4f16.onnx_data.part0004",
+      "size": 18874368,
+      "sha256": "35f67e86f1ea0deaf4e08ba73e2e6d5ffd73aa187b8b4f37843baf3579a4d870"
+    },
+    {
+      "name": "vision_encoder_q4f16.onnx_data.part0005",
+      "size": 4817600,
+      "sha256": "3c5c56deda8bb6672872ae4fbde7b96d49294ac372ca4c081627a4bc10618e6d"
+    }
+  ]
+}

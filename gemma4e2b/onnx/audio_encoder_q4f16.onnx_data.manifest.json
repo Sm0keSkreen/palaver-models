@@ -1,0 +1,58 @@
+{
+  "file": "audio_encoder_q4f16.onnx_data",
+  "totalSize": 171258112,
+  "chunkSize": 18874368,
+  "chunkCount": 10,
+  "parts": [
+    {
+      "name": "audio_encoder_q4f16.onnx_data.part0000",
+      "size": 18874368,
+      "sha256": "4bff3009cafdb7d9a4880576e166ec9aa32f9a4da2355692a9e6608c21af8daa"
+    },
+    {
+      "name": "audio_encoder_q4f16.onnx_data.part0001",
+      "size": 18874368,
+      "sha256": "51817d84b264e2f5e0416ed56828f7469bcaf679203dd52c279a50d3d1516730"
+    },
+    {
+      "name": "audio_encoder_q4f16.onnx_data.part0002",
+      "size": 18874368,
+      "sha256": "56a096aceb9bd1677def7d9b32f5f1ecc3d5f61f5bcdb6ceb3d42e01c1d27617"
+    },
+    {
+      "name": "audio_encoder_q4f16.onnx_data.part0003",
+      "size": 18874368,
+      "sha256": "4dcde1a82acd8f7ed1f0d42532ac873ced78f17c1ab73acf911e8ece58b7460b"
+    },
+    {
+      "name": "audio_encoder_q4f16.onnx_data.part0004",
+      "size": 18874368,
+      "sha256": "d8ca75aacae720da873a6f921d4bb23130b1ebf2b6e358d61ba8ce6c51f690b4"
+    },
+    {
+      "name": "audio_encoder_q4f16.onnx_data.part0005",
+      "size": 18874368,
+      "sha256": "5885735fcd1f17d1fcecf14316d8dfe813758089a4ffa67f1055f9dfbba0e6d3"
+    },
+    {
+      "name": "audio_encoder_q4f16.onnx_data.part0006",
+      "size": 18874368,
+      "sha256": "93d5ab23affec4ee61f6123aef2b578d4a62c7e445e969b41e09b5550e471e4f"
+    },
+    {
+      "name": "audio_encoder_q4f16.onnx_data.part0007",
+      "size": 18874368,
+      "sha256": "7b35001962f2b544262994b99b3ac2a4b7b990dda4863ecdc8bb8b3e830f6a7c"
+    },
+    {
+      "name": "audio_encoder_q4f16.onnx_data.part0008",
+      "size": 18874368,
+      "sha256": "f65b9edd8b6bbd473157b5d57955164331d34d3dc963fa96e70f69067ecb1835"
+    },
+    {
+      "name": "audio_encoder_q4f16.onnx_data.part0009",
+      "size": 1388800,
+      "sha256": "b908e8578500fca9f628cc310ce26c773a005b1b003d6f5a338dca034cd337e0"
+    }
+  ]
+}
