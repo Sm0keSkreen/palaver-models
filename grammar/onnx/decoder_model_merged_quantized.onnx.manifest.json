@@ -1,0 +1,17 @@
+{
+  "totalSize": 59339582,
+  "parts": [
+    {
+      "name": "decoder_model_merged_quantized.onnx.part0",
+      "sha256": "a6208a80eb1b1f78a005381b9e05ed76331d743fc825f1f1a75dcf1b3e4703d7"
+    },
+    {
+      "name": "decoder_model_merged_quantized.onnx.part1",
+      "sha256": "275a2f9edb23561e61921d84b2914b151dbe163e918bc06da0d32575fa0c80be"
+    },
+    {
+      "name": "decoder_model_merged_quantized.onnx.part2",
+      "sha256": "55c77e187a3e565660dd1fe950cc892e2bd825b21c78d1a93b2cf1a9ed9f293c"
+    }
+  ]
+}

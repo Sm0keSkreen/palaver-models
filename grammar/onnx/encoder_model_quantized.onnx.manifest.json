@@ -1,0 +1,13 @@
+{
+  "totalSize": 35759168,
+  "parts": [
+    {
+      "name": "encoder_model_quantized.onnx.part0",
+      "sha256": "7e7fc480074f732ea42f8f715b9149ac73ffc29724d5a9ce0ade21165117deb9"
+    },
+    {
+      "name": "encoder_model_quantized.onnx.part1",
+      "sha256": "4a32cea7d07684d3e5ab04333fd08eccef2d31184c9662d2a0af6fb2fed4f1d5"
+    }
+  ]
+}
